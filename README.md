@@ -42,3 +42,9 @@ The output (country, month, and selected season) is saved by this module to a te
 The input data (country and month) are read from a text file using this module. It asks for the file name as input and returns the country and month as a tuple.
 # Module 9: print_output
 The output (country, month, and selected season) is printed on the screen by this module. Before presenting them, it formats the country, month, and season parameters.
+![image](https://github.com/mind001/Pindoria_Raj_21338135_ISErepo/assets/8244853/54d240b6-c46c-4e06-8738-936740fa2a70)
+
+### APIs Used
+[Open Weather APIs](https://openweathermap.org/)
+
+https://openweathermap.org/current
