@@ -1,7 +1,9 @@
 # Pindoria_Raj_21338135_ISErepo
 # Seasons in Australia - Test cases Project
 
-![]("C:\Users\Raj02\Downloads\ISE assignment\ISE\ise1.png")
+<img width="466" alt="ise1" src="https://github.com/mind001/Pindoria_Raj_21338135_ISErepo/assets/8244853/0ce2356f-8b56-44d5-af71-27807d877ba3">
+<img width="436" alt="ise2" src="https://github.com/mind001/Pindoria_Raj_21338135_ISErepo/assets/8244853/16b7fd39-39e3-4da8-b30d-a98e5bfd42ee">
+
 
 ### Description
 
