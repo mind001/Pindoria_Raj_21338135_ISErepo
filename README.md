@@ -10,3 +10,5 @@ The validate_country function in this code compares a country input to a predefi
 The validate_month method in this code accepts a month parameter and determines if it is within the acceptable range of 1 to 12. The function returns True, indicating that the month is a legitimate month, if it falls inside this range. Otherwise, False is returned. If the month 6 is genuine, the test case verifies it and reports the result as True.
 # Module 4: season_display
 In this module, the season_display function takes a season parameter and checks the value of the season. Depending on the season, the corresponding visual symbol is printed on the screen. In the provided test case, the season is set to "Spring," and the symbol for Spring (🌸) is printed as the output.
+# Module 5 : Get_input_country 
+The input function is used by the get_input_country function in this code to ask the user to provide their country name. The nation name input is then given back as a string. The user enters "France" as their country name in the sample test case, and it prints as the output.
