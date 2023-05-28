@@ -8,3 +8,5 @@ The function looks up the specified nation in the seasons dictionary first. If y
 The validate_country function in this code compares a country input to a predefined list of recognised nations. The function returns True, indicating that the specified nation is a recognised country, if it can be located in the list. Otherwise, False is returned. The test case determines if the nation of "France" is recognised and prints the affirmative when it does.
 # Module 3 : Validate_month
 The validate_month method in this code accepts a month parameter and determines if it is within the acceptable range of 1 to 12. The function returns True, indicating that the month is a legitimate month, if it falls inside this range. Otherwise, False is returned. If the month 6 is genuine, the test case verifies it and reports the result as True.
+# Module 4: season_display
+In this module, the season_display function takes a season parameter and checks the value of the season. Depending on the season, the corresponding visual symbol is printed on the screen. In the provided test case, the season is set to "Spring," and the symbol for Spring (🌸) is printed as the output.
